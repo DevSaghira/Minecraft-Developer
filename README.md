@@ -7,7 +7,7 @@ I have been playing Minecraft for almost 9 years and have 3 years of experience 
 
 - [Survival Setup](https://github.com/Saghira/Survival-Games)  
 - [Skyblock Setup](https://github.com/Saghira/Skyblock-Economy)  
-- [Hub/Lobby Setup](https://github.com/Saghira/MiniGames-Lobby)  
+- [Hub/Lobby Setup](https://builtbybit.com/resources/armazi-lobby-setup-realms-lobbygames.67399/)  
 - [Permissions & Rank Manager](https://github.com/Saghira/Permissions-Rank-System)  
 
 <b>More projects coming soon!</b>
